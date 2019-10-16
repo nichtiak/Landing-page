@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://akua.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://akua.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://akua.co/collections/accessories.atom"/>
+  <title>AKUA</title>
+  <updated>2018-05-11T11:41:22-04:00</updated>
+  <author>
+    <name>AKUA</name>
+  </author>
+  <entry>
+    <id>https://akua.co/products/1298469093442</id>
+    <published>2018-05-11T11:41:22-04:00</published>
+    <updated>2018-05-11T11:41:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://akua.co/products/stickers"/>
+    <title>&quot;I Kelped Out&quot; Stickers</title>
+    <s:type></s:type>
+    <s:vendor>Akua Production</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/6425/5042/products/Sticker.jpg?v=1554283929" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Akua Production<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            0.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Grab one of our "I Kelped Out" stickers!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://akua.co/products/1298469093442</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.50</s:price>
+      <s:sku>I Kelped Out Sticker</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://akua.co/products/1298466832450</id>
+    <published>2018-05-11T11:40:17-04:00</published>
+    <updated>2018-05-11T11:40:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://akua.co/products/water-bottle"/>
+    <title>AKUA Reusable Water Bottle</title>
+    <s:type></s:type>
+    <s:vendor>Akua Production</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/6425/5042/products/bottle_aku13.jpg?v=1546954675" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Akua Production<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>AKUA's made-in-the-USA reusable water bottle is perfect for throwing in your AKUA beach tote, hooking to your gym bag, and drinking on the go. </p>
+<p>This <strong>16oz </strong><strong>aluminum water bottle</strong> is <strong>made from 100% r</strong><span><span><strong>ecyclable materials</strong> (<em>did you know aluminum is </em></span></span><span><em>the most recycled material on the planet</em>?) and </span>comes with a rubber straw spout for easy sipping.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://akua.co/products/1298466832450</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>Akua Water Bottle</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://akua.co/products/645530091586</id>
+    <published>2018-04-02T10:33:12-04:00</published>
+    <updated>2018-04-02T10:33:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://akua.co/products/beach-tote"/>
+    <title>AKUA Sea Anemone Beach Tote</title>
+    <s:type></s:type>
+    <s:vendor>Akua Production</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/6425/5042/products/IMG_4349.jpg?v=1555269203" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Akua Production<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Snag our oversized, eco-friendly adorably punny beach tote for your next holiday!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://akua.co/products/645530091586</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>Beach Bag</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

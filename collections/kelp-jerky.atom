@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://akua.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://akua.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://akua.co/collections/kelp-jerky.atom"/>
+  <title>AKUA</title>
+  <updated>2019-10-14T10:33:19-04:00</updated>
+  <author>
+    <name>AKUA</name>
+  </author>
+  <entry>
+    <id>https://akua.co/products/4255063801922</id>
+    <published>2019-10-14T10:33:19-04:00</published>
+    <updated>2019-10-14T10:33:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://akua.co/products/variety-super-pack"/>
+    <title>Variety Super Pack</title>
+    <s:type>Kelp Jerky</s:type>
+    <s:vendor>AKUA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/6425/5042/products/83ab5ef1-7080-4a88-8b3d-7b767cd52e8f_def6043d-dbb0-48d3-a63d-47aae92cde1d.jpg?v=1571063605" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKUA<br />
+        <strong>Type: </strong>Kelp Jerky<br />
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Love Kelp Jerky as much as we love you? Get an 8oz (1/2lb) Super Pack of Kelp Jerky to stock up at home. Perfect for pouring into an air-tight container at home. Less packaging, more Kelp Jerky. Everybody wins!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>superpack</s:tag>
+    <s:variant>
+      <id>https://akua.co/products/4255063801922</id>
+      <title>Default Title</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>Super Pack - Variety Pack</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://akua.co/products/4255063572546</id>
+    <published>2019-10-14T10:32:51-04:00</published>
+    <updated>2019-10-14T10:32:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://akua.co/products/spicy-thai-spirulina-super-pack"/>
+    <title>Spicy Thai &amp; Spirulina Super Pack</title>
+    <s:type>Kelp Jerky</s:type>
+    <s:vendor>AKUA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/6425/5042/products/f9253dbe-e82d-4f8d-a6b1-ba45ac55f4ca_eb6fee82-5e61-4dcb-9e33-87f442395b71.jpg?v=1571063581" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKUA<br />
+        <strong>Type: </strong>Kelp Jerky<br />
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Love Kelp Jerky as much as we love you? Get an 8oz (1/2lb) Super Pack of Kelp Jerky to stock up at home. Perfect for pouring into an air-tight container at home. Less packaging, more Kelp Jerky. Everybody wins!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>superpack</s:tag>
+    <s:variant>
+      <id>https://akua.co/products/4255063572546</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>Super Pack - Spicy Thai &amp; Spirulina</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://akua.co/products/4255063179330</id>
+    <published>2019-10-14T10:32:16-04:00</published>
+    <updated>2019-10-14T10:32:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://akua.co/products/sesame-nori-sea-salt-super-pack"/>
+    <title>Sesame &amp; Nori Sea Salt Super Pack</title>
+    <s:type>Kelp Jerky</s:type>
+    <s:vendor>AKUA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/6425/5042/products/cb26a311-cf7b-4bbb-b491-3e9d47c06ea2_28a6ed69-cb59-4e33-8968-fbb61f451052.jpg?v=1571063558" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKUA<br />
+        <strong>Type: </strong>Kelp Jerky<br />
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Love Kelp Jerky as much as we love you? Get an 8oz (1/2lb) Super Pack of Kelp Jerky to stock up at home. Perfect for pouring into an air-tight container at home. Less packaging, more Kelp Jerky. Everybody wins!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>superpack</s:tag>
+    <s:variant>
+      <id>https://akua.co/products/4255063179330</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>Super Pack - Sesame &amp; Nori Sea Salt</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://akua.co/products/4255062818882</id>
+    <published>2019-10-14T10:30:44-04:00</published>
+    <updated>2019-10-14T10:30:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://akua.co/products/rosemary-maple-barbecue-super-pack"/>
+    <title>Rosemary &amp; Maple Barbecue Super Pack</title>
+    <s:type>Kelp Jerky</s:type>
+    <s:vendor>AKUA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/6425/5042/products/fac21a3c-3e64-4a30-a2c5-5630b3e90873_2e81440f-1a06-4ce6-b66e-069f1c1c77bb.jpg?v=1571063507" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKUA<br />
+        <strong>Type: </strong>Kelp Jerky<br />
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Love Kelp Jerky as much as we love you? Get an 8oz (1/2lb) Super Pack of Kelp Jerky to stock up at home. Perfect for pouring into an air-tight container at home. Less packaging, more Kelp Jerky. Everybody wins!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>superpack</s:tag>
+    <s:variant>
+      <id>https://akua.co/products/4255062818882</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>Super Pack - Rosemary &amp; Maple BBQ</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://akua.co/products/1317641912386</id>
+    <published>2018-05-21T06:11:33-04:00</published>
+    <updated>2018-05-21T06:11:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://akua.co/products/kelp-jerky-variety"/>
+    <title>Variety Pack</title>
+    <s:type>Kelp Jerky</s:type>
+    <s:vendor>Akua Production</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/6425/5042/products/Three-Pack_Variety-Pack_Color.jpg?v=1563907474" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Akua Production<br />
+        <strong>Type: </strong>Kelp Jerky<br />
+        <strong>Price: </strong>
+            19.99 - 74.99
+            <a href="https://akua.co/products/kelp-jerky-variety">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Enjoy all three of our tasty Kelp Jerky flavours in a 3-pack, 6-pack, or 12-pack.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://akua.co/products/1317641912386</id>
+      <title>3 Bags (Snack Pack)</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>A3PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://akua.co/products/1317641912386</id>
+      <title>12 Bags (Value Pack)</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>Sample 12pk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://akua.co/products/1317692112962</id>
+    <published>2018-04-10T08:51:26-04:00</published>
+    <updated>2018-04-10T08:51:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://akua.co/products/kelp-jerky-spiced-turmeric"/>
+    <title>Spicy Thai &amp; Spirulina</title>
+    <s:type>Kelp Jerky</s:type>
+    <s:vendor>Akua Production</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/6425/5042/products/Single-Pack_Spicy-Thai-and-Spirulina_Color.jpg?v=1563907305" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Akua Production<br />
+        <strong>Type: </strong>Kelp Jerky<br />
+        <strong>Price: </strong>
+            19.99 - 74.99
+            <a href="https://akua.co/products/kelp-jerky-spiced-turmeric">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>A delicious, nutrient dense, high-protein, energy-supporting snack made with </span><span>regeneratively</span><span> ocean-farmed kelp, top quality shiitake mushrooms, and superfoods. </span><span>Flavored with our epic Thai, turmeric, and spirulina spices!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color: yellow</s:tag>
+    <s:tag>high thai&apos;d</s:tag>
+    <s:tag>spicy</s:tag>
+    <s:tag>spirulina</s:tag>
+    <s:tag>thai</s:tag>
+    <s:tag>turmeric</s:tag>
+    <s:variant>
+      <id>https://akua.co/products/1317692112962</id>
+      <title>3 Bags (Snack Pack)</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>A0080033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://akua.co/products/1317692112962</id>
+      <title>12 Bags (Value Pack)</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>A00801012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://akua.co/products/1317688508482</id>
+    <published>2018-04-10T08:51:26-04:00</published>
+    <updated>2018-04-10T08:51:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://akua.co/products/kelp-jerky-sea-salt-sesame"/>
+    <title>Sesame &amp; Nori Sea Salt</title>
+    <s:type>Kelp Jerky</s:type>
+    <s:vendor>Akua Production</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/6425/5042/products/Single-Pack_Sesame-and-Nori-Sea-Salt_Color.jpg?v=1571055827" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Akua Production<br />
+        <strong>Type: </strong>Kelp Jerky<br />
+        <strong>Price: </strong>
+            19.99 - 74.99
+            <a href="https://akua.co/products/kelp-jerky-sea-salt-sesame">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>A delicious, nutrient dense, high-protein, energy-supporting snack made with </span><span>regeneratively</span><span> ocean-farmed kelp, top quality shiitake mushrooms, and superfoods. </span><span>Flavored with our epic nori and sesame spices!</span></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color: blue</s:tag>
+    <s:variant>
+      <id>https://akua.co/products/1317688508482</id>
+      <title>3 Bags (Snack Pack)</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>A0080033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://akua.co/products/1317688508482</id>
+      <title>12 Bags (Value Pack)</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>A00800312</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://akua.co/products/1317674254402</id>
+    <published>2018-04-10T08:51:26-04:00</published>
+    <updated>2018-04-10T08:51:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://akua.co/products/kelp-jerky-rosemary-barbecue"/>
+    <title>Rosemary &amp; Maple Barbecue</title>
+    <s:type>Kelp Jerky</s:type>
+    <s:vendor>Akua Production</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0012/6425/5042/products/Single-Pack_Rosemary-and-Maple-Barbecue_Color.jpg?v=1571055796" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Akua Production<br />
+        <strong>Type: </strong>Kelp Jerky<br />
+        <strong>Price: </strong>
+            19.99 - 74.99
+            <a href="https://akua.co/products/kelp-jerky-rosemary-barbecue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>A delicious, nutrient dense, high-protein, energy-supporting snack made with </span><span>regeneratively</span><span> ocean-farmed kelp, top quality shiitake mushrooms, and superfoods. </span>Flavored with our epic rosemary &amp; maple BBQ spices!</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color: red</s:tag>
+    <s:tag>vegan</s:tag>
+    <s:variant>
+      <id>https://akua.co/products/1317674254402</id>
+      <title>3 Bags (Snack Pack)</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>A0080273</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://akua.co/products/1317674254402</id>
+      <title>12 Bags (Value Pack)</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>A00802712</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
